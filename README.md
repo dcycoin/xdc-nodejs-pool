@@ -1,28 +1,7 @@
 xdc-nodejs-pool
 ======================
 
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins. Comes with lightweight example front-end script which uses the pool's AJAX API. Support for Cryptonight (Original, Monero v7, Stellite v7), Cryptonight Light (Original, Aeon v7, IPBC) and Cryptonight Heavy (Sumokoin) algorithms.
-
-
-#### Table of Contents
-* [Features](#features)
-* [Community Support](#community--support)
-* [Pools Using This Software](#pools-using-this-software)
-* [Usage](#usage)
-  * [Requirements](#requirements)
-  * [Downloading & Installing](#1-downloading--installing)
-  * [Configuration](#2-configuration)
-  * [Starting the Pool](#3-start-the-pool)
-  * [Host the front-end](#4-host-the-front-end)
-  * [Customizing your website](#5-customize-your-website)
-  * [SSL](#ssl)
-  * [Upgrading](#upgrading)
-* [JSON-RPC Commands from CLI](#json-rpc-commands-from-cli)
-* [Monitoring Your Pool](#monitoring-your-pool)
-* [Donations](#donations)
-* [Credits](#credits)
-* [License](#license)
-
+High performance Node.js (with native C addons) mining pool.
 
 Features
 ===
